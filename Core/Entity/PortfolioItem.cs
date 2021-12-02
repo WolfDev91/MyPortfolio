@@ -1,4 +1,6 @@
-﻿namespace Core.Entity
+﻿using System;
+
+namespace Core.Entity
 {
 	public class PortfolioItem : EntityBase
 	{
